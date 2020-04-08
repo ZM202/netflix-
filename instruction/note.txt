@@ -1,0 +1,44 @@
+Write a script that will keep track of all the movies you have or have not seen on Netflix. 
+Provide information about this movie and if you have seen it or not.
+
+Get 4 movie information
+
+
+Visit https://reelgood.com/roulette/netflix and update the form to be the following:
+
+Select Genre and select the genre that you are most interested in
+
+Uncheck the TV Shows checkbox, leaving the Movies checkbox selected
+
+Change the IMDB dropdown field to be > 8
+
+Change Rotten Tomato dropdown field to be > 80%
+
+When the form is completed, hit SPIN to see a random movie appear
+
+Copy and paste the information about that movie in a Word Doc to hold it there for now
+
+Hit SPIN 3 more times so that you have a total of 4 movie informations in your Word Doc
+
+
+Show a message about each movie 
+
+Create a Movie constructor with properties that would identify 
+each information from the movie description. There should be at least 7 properties
+
+And add another property to represent if you have seen this movie or not. 
+This will make it a total of 8 properties
+
+Create all 4 objects using the NEW keyword. 
+
+Create a method that will display a message for each movie when
+ the method has been called on that object
+
+The message can say something like this or feel free to say something else. 
+You just need to display all properties found in the object:
+
+Netflix has a movie called BLANK that was released on BLANK. 
+The movie is a BLANK and it is about BLANK. The duration is BLANK long. 
+And according to popular movie ratings, IMDB gives it a BLANK and Rotten 
+Tomato gives it a BLANK. As of today, I have BLANK this movie.
+
